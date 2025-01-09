@@ -55,7 +55,7 @@ Risk Management
 
 Data-Driven Decision Making
 
-Cross-Border Financial Transactions
+Game Theory
 
 🚀 Independent Projects
 
@@ -75,10 +75,20 @@ Automated video and audio editing workflows for YouTube content creators using P
 
 Designed and deployed a remote monitoring solution for Floramaxx Tech that tracked temperature and humidity with real-time alerts, reducing plant tissue loss by 20%. 
 
-## 📈 Current Projects  
-- 🎶 **AI-Driven Music Composition System**  
-- 🤖 **Chess Bots using Stockfish**  
+📚 Certifications
 
-## 🌐 Let's Connect  
-- **LinkedIn**: linkedin.com/in/manjot-singh-b1456717b
-- **GitHub**: EthereousNatsuDragneel
+Deep Learning Specialization – Stanford University, Coursera (Ongoing)
+IBM Cybersecurity Analyst Professional Certificate (Ongoing)
+Machine Learning Specialization – Stanford University, Coursera (Completed in June 2024)
+Azure Fundamentals (AZ-900), Azure AI Fundamentals (AI-900), Azure Data Fundamentals (DP-900) – Microsoft (Completed in Aug 2022)
+Algorithms Specialization Certificate – Stanford University, Coursera (Completed in June 2020)
+
+📫 How to Reach Me
+
+LinkedIn: Manjot Singh
+
+Email: manjot@example.com
+
+GitHub: github.com/ManjotSingh
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. 😊
