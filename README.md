@@ -85,7 +85,7 @@ Algorithms Specialization Certificate – Stanford University, Coursera (Complet
 
 📫 How to Reach Me
 
-LinkedIn: Manjot Singh
+LinkedIn: [Manjot Singh](https://www.linkedin.com/in/linkedin.com/in/manjot-singh-b1456717b/)
 
 Email: manjot@example.com
 
