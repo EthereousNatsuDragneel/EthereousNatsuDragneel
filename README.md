@@ -89,6 +89,6 @@ LinkedIn: [Manjot Singh](https://www.linkedin.com/in/linkedin.com/in/manjot-sing
 
 Email: manjot@example.com
 
-GitHub: github.com/ManjotSingh
+GitHub: [Manjot Singh](https://github.com/EthereousNatsuDragneel)
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me. 😊
