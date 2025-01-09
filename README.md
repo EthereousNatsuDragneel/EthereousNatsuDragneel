@@ -12,4 +12,4 @@ I’m a double major in **Computer Science & Economics** at UBC, working on **AI
 
 ## 🌐 Let's Connect  
 - **LinkedIn**: linkedin.com/in/manjot-singh-b1456717b
-- **GitHub**: GitHub
+- **GitHub**: EthereousNatsuDragneel
