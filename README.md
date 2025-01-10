@@ -4,76 +4,45 @@ I'm a passionate Computer Science and Economics student at the University of Bri
 ## 💻 Technical Skills
 
 Python (Advanced)
-
 Machine Learning & Deep Learning
-
-Cybersecurity Fundamentals
-
-Data Analysis & Visualization
-
-Parallel Computing (CUDA)
-
-Git & Version Control
-
-REST API Integration
-
-IoT (Internet of Things)
-
-⚙️ Software Development
-
-Algorithm Design
-
 Automation & Scripting
-
-Object-Oriented Programming (OOP)
-
-Full-Stack Development (Basic)
-
-Software Testing & Debugging
-
-API Development
-
-🎨 Project-Based Skills
-
-AI-Driven Music Composition
-
-Automated Video/Audio Editing Workflows
-
-Chess Bot Development (Stockfish Engine)
-
-Remote IoT Monitoring Solutions
-
-Audio Signal Processing
-
-📊 Economics & Business Skills
-
-Strategic Thinking
-
-Econometric Modeling
-
-Risk Management
-
-Data-Driven Decision Making
-
-Game Theory
+Data Analysis & Visualization
+Cybersecurity Fundamentals
 
 🚀 Independent Projects
 
-1. AI-Driven Music Composition System
+### 🎵 AI-Driven Music Composition System  
+An intelligent system for generating original music compositions using algorithmic analysis of diverse instruments and styles.  
+- Technologies: Python, NumPy, SciPy, TensorFlow  
+- Features: Real-time music generation, multi-instrument support
 
-Built a Python-based system that generates original music compositions using algorithmic analysis of diverse instruments and musical styles.
+### 🤖 YouTube Workflow Automation  
+Automated video and audio editing workflows for YouTube content creators, enhancing efficiency and streamlining content production processes.  
+- Technologies: Python, FFmpeg, MoviePy, YouTube Data API  
+- Features: Automated trimming, noise removal, intro/outro insertion
 
-2. Chess Bot with Stockfish Integration
+♟️ Automated Chess Bot Using Stockfish
+Developed an advanced Python-based chess bot leveraging the Stockfish engine to automate and resume abandoned chess games.
 
-Developed a chess bot using Python and the Stockfish engine to automate and resume abandoned games, achieving top-tier performance.
+Technologies: Python, Stockfish, Chess library
+Key Features:
+Automated move generation based on real-time board state
+Game resumption from saved positions
+Optimized for high performance, achieving top-tier gameplay
+Impact: Enhanced automation for casual and competitive players by reducing game abandonment.
 
-3. Automated YouTube Video Editing
+🏡 IoT Greenhouse Monitoring System for Floramaxx Tech
+Developed a remote monitoring solution to track temperature and humidity in greenhouses, providing real-time alerts to prevent plant tissue damage.
 
-Automated video and audio editing workflows for YouTube content creators using Python, enhancing efficiency and streamlining content production processes.
+Technologies: Python, Raspberry Pi, MQTT, Flask
+Key Features:
+Remote temperature and humidity tracking
+Real-time alerts for critical conditions
+Data visualization dashboard
+Impact: Reduced plant tissue loss by 20%, improving yield and productivity.
 
-4. Remote IoT Monitoring for Floramaxx Tech Ltd.
+📊 Economics & Business Skills: Strategic Thinking & Decision-Making, Econometric Modeling & Forecasting, Risk Management & Investment Strategy, Data-Driven Insights, Game Theory & Behavioral Economics
 
-Designed and deployed a remote monitoring solution for Floramaxx Tech that tracked temperature and humidity with real-time alerts, reducing plant tissue loss by 20%. 
 
 📚 Certifications
 
